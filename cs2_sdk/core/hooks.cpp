@@ -1,5 +1,5 @@
 #include "hooks.h"
 
-void setup_hooks() {
+bool hooks::setup_hooks() {
 
 }
