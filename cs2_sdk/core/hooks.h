@@ -2,6 +2,6 @@
 
 
 namespace hooks{
-    void hooks();
+    bool hooks();
 
 }
