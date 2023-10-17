@@ -1,5 +1,7 @@
 #pragma once
 
+#include "../includes.h"
+
 namespace visuals {
-    void visuals_draw();
+    void draw();
 }

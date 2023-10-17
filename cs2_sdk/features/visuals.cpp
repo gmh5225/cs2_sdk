@@ -1,5 +1,5 @@
 #include "visuals.h"
 
-void visuals_draw() {
-    
+void visuals::draw() {
+
 }

@@ -1,5 +1,5 @@
 #include "antiaim.h"
 
-void antiaim_run(c_user_cmd* cmd) {
-    
+void antiaim::run(c_user_cmd* cmd) {
+
 }

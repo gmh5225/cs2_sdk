@@ -1,5 +1,7 @@
 #pragma once
 
+#include "../includes.h"
+
 namespace antiaim {
-    void antiaim_run(c_user_cmd* cmd);
+    void run(c_user_cmd* cmd);
 }
