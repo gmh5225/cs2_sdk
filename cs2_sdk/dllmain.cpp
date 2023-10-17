@@ -7,5 +7,5 @@ BOOL APIENTRY Dllmain(hHandle module, DWORD reason, LPVOID reserved) {
         case DLL_PROCESS_DEATTACH:
         break;
     }
-
-    reurn TRUE;
+    return TRUE;
+}
